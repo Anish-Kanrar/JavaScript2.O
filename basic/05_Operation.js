@@ -2,12 +2,12 @@ let value = 18
 let negValue = -value
 //console.log(negValue) //-18
 
-// console.log(3+3);
-// console.log(3-3);
-// console.log(3*3);
+// console.log(3 + 3);
+// console.log(3 - 3);
+// console.log(3 * 3);
 // console.log(3**4); //power
-// console.log(3/4);
-// console.log(3%4);  //modulus
+// console.log(3 / 4);
+// console.log(3 % 4);  //modulus
 
 
 /*
@@ -25,7 +25,7 @@ console.log(str3);  //Hello RCBians
 // console.log(1 + 8 + "8");  //98
 // console.log(1 + "8" + 1 + 2) //1812
 
-//console.log((8 + 1)  * 5 % 2);   //code always simple,readable
+//console.log((8 + 1)  * 5 % 2);   //code always simple, readable
 
 console.log(true);  //true
 console.log(+true);  //1

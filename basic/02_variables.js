@@ -1,11 +1,11 @@
-const accountId = 122990  //constant
+const accountId = 122990       //constant
 let accountEmail = "anish@gmail.com"
-var accountPassword = "12345"  //not prefore in this way
-accountCity = "Kolkata"        //not prefore
+var accountPassword = "12345"  //not prefer in this way
+accountCity = "Kolkata"        //not prefer
 let accountState;              //output will be "undefine"
 //accountId = 2   //not allowed,constant does not change
 
-accountEmail = "an@an.com"
+accountEmail = "ank@an.com"
 accountPassword = "919191917"
 accountCity = "Pune"
 

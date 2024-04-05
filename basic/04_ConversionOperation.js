@@ -4,8 +4,8 @@ console.log(typeof score);
 console.log(typeof (score));  //method */
 
 //investing study
+//As a string
 /*
- //As a string
 let score = "99"
 console.log(typeof score);
 console.log(typeof (score));  //method

@@ -1,13 +1,13 @@
 "use strick";  //treat all JS code as newer version
 
-//JS er engineen browser er moddhe chupa hota hain
-//alert(7 + 7)  // we are using nodejs ,not browser 
+//JS er engine browser ka andar chupa hota hain
+//alert(7 + 7)  // we are using nodejs, not browser 
 //alert("hello")
 
 
 //console.log(7 + 7); console.log("Anish") //not recommended,code readability should be high
 
-console.log(7+7)
+console.log(7 + 7)
 console.log("Anish")
 
 let name = "Anik"  //String
