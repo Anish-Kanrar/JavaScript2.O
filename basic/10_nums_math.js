@@ -19,7 +19,7 @@ const otherNumber1 = 123.567
 console.log(otherNumber1.toPrecision(3));  //124
 */
 
-const hundreds =1000000
+const hundreds = 1000000
 console.log(hundreds.toLocaleString());  //1,000,000
 console.log(hundreds.toLocaleString('en-IN'));  //10,00,000
 
