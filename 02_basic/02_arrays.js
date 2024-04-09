@@ -23,7 +23,6 @@ console.log(real_another_array);
 ]
 */
 
-
 console.log(Array.isArray("Anish")); //false
 console.log(Array.from("Anish"));    //[ 'A', 'n', 'i', 's', 'h' ]
 console.log(Array.from({name: "Anish"}));    //[],interesting
