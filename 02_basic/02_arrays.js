@@ -8,7 +8,7 @@ const bowler = ["Bumrah","Shami","Siraj"]
 const allCricker = batsman.concat(bowler);
 console.log(allCricker);  //[ 'Virat', 'Rahit', 'Rahul', 'Bumrah', 'Shami', 'Siraj' ]
 
- // spread operator
+ // spread operator....glass spread
 const all_new_cricketer = [...batsman, ...bowler]
 console.log(all_new_cricketer);  //[ 'Virat', 'Rahit', 'Rahul', 'Bumrah', 'Shami', 'Siraj' ],preferable**
 
@@ -25,7 +25,7 @@ console.log(real_another_array);
 
 console.log(Array.isArray("Anish")); //false
 console.log(Array.from("Anish"));    //[ 'A', 'n', 'i', 's', 'h' ]
-console.log(Array.from({name: "Anish"}));    //[],interesting
+console.log(Array.from({name: "Anish"}));    //[], interesting
 
 let score1 = 100
 let score2 = 200

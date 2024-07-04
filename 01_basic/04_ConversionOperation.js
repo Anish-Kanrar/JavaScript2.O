@@ -23,7 +23,7 @@ console.log(typeof (score));  //method  //string
 
 let valueInNumber = Number(score)
 console.log(typeof valueInNumber);  //number
-console.log(valueInNumber);  //NaN
+console.log(valueInNumber);  //NaN-->Not a Number
 */
 
 /*

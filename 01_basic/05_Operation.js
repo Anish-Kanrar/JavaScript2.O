@@ -5,7 +5,7 @@ let negValue = -value
 // console.log(3 + 3);
 // console.log(3 - 3);
 // console.log(3 * 3);
-// console.log(3**4); //power
+// console.log(3**4); //power,3^4
 // console.log(3 / 4);
 // console.log(3 % 4);  //modulus
 
@@ -28,7 +28,8 @@ console.log(str3);  //Hello RCBians
 //console.log((8 + 1)  * 5 % 2);   //code always simple, readable
 
 console.log(true);  //true
-console.log(+true);  //1
+console.log(+true);  //1   //confussion code nehi likhna hai
+
 console.log(false);  //false
 console.log(+false);  //0  //confussion code nehi likhna hai
 
