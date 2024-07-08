@@ -12,8 +12,8 @@ const myArr = [0, 1, 2, 3, 4, 5]
 const myCricketer = ["Virat", "Dhoni", "Rohit"]
 
 const myArr2 = new Array(1, 2, 3, 4)
-console.log (myArr[1]);  //1
-console.log (myArr[3]);  //3
+console.log(myArr[1]);  //1
+console.log(myArr[3]);  //3
 
 //Array methods
 
