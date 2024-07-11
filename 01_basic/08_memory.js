@@ -5,7 +5,7 @@
 let myYoutubename = "AnishKanrardotcom"
 let anotherName = myYoutubename
 
-console.log(anotherName)   //AnishKanrardotcom
+console.log(anotherName)  //AnishKanrardotcom
 */
 
 
