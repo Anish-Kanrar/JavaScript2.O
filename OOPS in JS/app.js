@@ -11,7 +11,7 @@
 
 const employee = {
     calcTax() {
-        console.log("tax rate is 10%")
+        console.log("tax rate is 10%");
     },
     // calcTax2 : function() {
     //     console.log("tax rate is 10%")
@@ -29,17 +29,17 @@ anikDas.__proto__ = employee;
 
 // class is a program-code template for creating objects.
 
-class ToyotaCar{
-    constructor(){
+class ToyotaCar {
+    constructor() {
         console.log("creating new object");
     }
-    start(){
-        console.log("Start")
+    start() {
+        console.log("Start");
     }
-    stop(){
-        console.log("Stop")
+    stop() {
+        console.log("Stop");
     }
-    setBrand(brand){
+    setBrand(brand) {
         this.brand = brand;
     }
 }
@@ -53,12 +53,28 @@ console.log(lexus)
 
 //inheritance is passing down properties & methods from parent class to chaild class
 
-class Parent{
-    hello(){
-        console.log("hello");
+class Person {
+    constructor(name) {
+        // console.log("Enter parent constructor");
+        this.species = "homo sapiens";
+        this.name = name;
+    }
+    eat() {
+        console.log("eat");
     }
 }
 
-class child extends Parent{}
+class Enginner extends Person {
+    constructor(name) {
 
-let obj = new child();
+        super(name); //to invoke parent class constructor
+
+    }
+    work() {
+        super.eat();
+        console.log("solve problem, build something");
+    }
+}
+let engObj = new Enginner("Anik");
+
+//super keyword-->The super keyword is used to call the constructor of its parent class to access the parent's properties and methods.
