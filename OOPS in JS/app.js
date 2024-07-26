@@ -66,7 +66,6 @@ class Person {
 
 class Enginner extends Person {
     constructor(name) {
-
         super(name); //to invoke parent class constructor
 
     }
