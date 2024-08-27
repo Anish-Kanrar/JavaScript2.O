@@ -8,6 +8,7 @@
 
 //const myArr = [0, 1, 2, 3, 4, 5, true, 'anish']  //1
 
+
 const myArr = [0, 1, 2, 3, 4, 5]
 const myCricketer = ["Virat", "Dhoni", "Rohit"]
 
