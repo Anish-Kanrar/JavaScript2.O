@@ -34,7 +34,6 @@ calculator(8, 6, (a, b) => {
     console.log(a + b);
 });
 
-
 // Asynchronous callback-->
 const hello1 = () => {
     console.log("hello");
