@@ -9,7 +9,6 @@ accountEmail = "ank@an.com"
 accountPassword = "919191917"
 accountCity = "Pune"
 
-
 console.log(accountId);
 
 /*
