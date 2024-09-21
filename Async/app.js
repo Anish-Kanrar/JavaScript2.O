@@ -65,7 +65,6 @@ getData(1, () => {
     });
 });
 
-
 /*Promises(To reduce callback hell)
 Promise is for "eventual" completion of task.It is an object in js.It is a solution to callback hell.
 
