@@ -5,6 +5,7 @@ function generateOTP(length) {
         otp += Math.floor(Math.random() * 10).toString();
     } return otp;
 }
+
 =======
     function generateOTP(length) {
     let otp="";
