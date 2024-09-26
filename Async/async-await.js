@@ -2,6 +2,7 @@
 //async function myFunc(){...}
 //await pauses the execution of its surrounding async function until the promise is settled.
 
+
 async function hello() {
     console.log("hello");
 }
@@ -58,3 +59,4 @@ async function getAllData() {
     console.log("getting data5...");
     await getData(5);
 }) ();
+
