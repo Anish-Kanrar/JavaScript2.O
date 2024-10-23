@@ -14,6 +14,7 @@ class Admin extends User{
     constructor(name,email){
         super(name,email);
     }
+    
     editData(){
         DATA = "some new value";
     }
