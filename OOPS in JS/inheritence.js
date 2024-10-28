@@ -1,5 +1,4 @@
 class person{
-    
     constructor(){
         this.species = "homo sapiens"
     }
