@@ -25,7 +25,6 @@ function getData(dataId) {
         setTimeout(() => {
             console.log("data", dataId);
             resolve("success");
-
         }, 2000);
     });
 }
