@@ -55,5 +55,6 @@ async function getAllData() {
     await getData(4);
     console.log("getting data5...");
     await getData(5);
+    
 }) ();
 
