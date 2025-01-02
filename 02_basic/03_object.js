@@ -26,6 +26,7 @@ JsUser.email = "anish@chatgpt4.com"
 JsUser.email = "anish@microsoft.com"
 console.log(JsUser);
 
+
 /*
 {
     name: 'Anish',
