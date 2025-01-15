@@ -21,6 +21,7 @@ console.log(JsUser["full name"]);  //Anish Kanrar
 console.log(JsUser[mySym]);   //mykey1
 
 
+
 JsUser.email = "anish@chatgpt4.com"
 //Object.freeze(JsUser);
 JsUser.email = "anish@microsoft.com"
