@@ -13,6 +13,7 @@ class person{
     }
 }
 
+
 class Enginner extends person{
     work(){
         console.log("solve problem, build something");
