@@ -5,6 +5,7 @@
 async function hello() {
     console.log("hello");
 }
+
 function api() {
     return new Promise((resolve, reject) => {
         setTimeout(() => {
