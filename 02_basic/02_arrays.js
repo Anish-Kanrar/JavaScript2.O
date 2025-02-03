@@ -1,3 +1,4 @@
+
 const batsman =["Virat", "Rahit", "Rahul"]
 const bowler = ["Bumrah","Shami","Siraj"]
 
