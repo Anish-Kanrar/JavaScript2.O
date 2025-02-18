@@ -1,5 +1,6 @@
 let DATA = "secret information";
 
+
 class User{
     constructor(name,email){
         this.name=name;
