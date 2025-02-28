@@ -6,7 +6,6 @@ function generateOTP(length) {
     } return otp;
 }
 
-=======
     function generateOTP(length) {
         
     let otp="";
