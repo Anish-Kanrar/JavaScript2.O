@@ -4,6 +4,7 @@
 console.log("one");
 console.log("two");
 
+
 //Asynchronous
 function hello() {
     console.log("hello");
