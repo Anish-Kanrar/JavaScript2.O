@@ -45,6 +45,7 @@ async function getAllData() {
 
 //IIFE:-Immediately Invoked Function Expression.It is a function that is called immediately as soon as it is defined.
 
+
 (async function () {
     console.log("getting data1...");
     await getData(1);
