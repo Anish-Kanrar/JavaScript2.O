@@ -1,5 +1,4 @@
 let h1 = document.querySelector("h1");
-
 /*
 //1
 h1.style.color = "green";
