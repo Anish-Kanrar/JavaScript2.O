@@ -1,6 +1,7 @@
 const batsman =["Virat", "Rahit", "Rahul"]
 const bowler = ["Bumrah","Shami","Siraj"]
 
+
 // batsman.push(bowler)
 // console.log(batsman);  //[ 'Virat', 'Rahit', 'Rahul', [ 'Bumrah', 'Shami', 'Siraj' ] ]
 
